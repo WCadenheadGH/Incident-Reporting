@@ -3,7 +3,7 @@
  
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Attached is a scenario requiring the response of a data analyst. This scenario is accompanied by an incident report of the network traffic analysis written by me as well as an exemplar written by Google as part of their cyber security certificate course.
 <br />
 
 
@@ -13,12 +13,3 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
